@@ -1,5 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+[![Build Status](https://timrossclouded.visualstudio.com/MyFirstProject/_apis/build/status/ASP.NET%20Core)](https://timrossclouded.visualstudio.com/MyFirstProject/_build/latest?definitionId=1)
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
